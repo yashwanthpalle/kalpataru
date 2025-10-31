@@ -3,8 +3,7 @@
 Website link 🖇️ https://valuable-giraffe-268.convex.app/#features
   
 ## Project structure
-  
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
+ 
   
 The backend code is in the `convex` directory.
   

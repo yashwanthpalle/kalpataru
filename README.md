@@ -1,9 +1,6 @@
 # Telemedicine Platform for Rural Healthcare Access
   
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
-  
-This project is connected to the Convex deployment named [`valuable-giraffe-268`](https://dashboard.convex.dev/d/valuable-giraffe-268).
+Website link 🖇️ https://valuable-giraffe-268.convex.app/#features
   
 ## Project structure
   

@@ -1,1 +1,2 @@
+website link https://valuable-giraffe-268.convex.app/#features
 The RuralCare Telemedicine Platform connects rural patients with city doctors through a secure, web-based system. It enables online registration, consultation, and appointment booking, reducing travel time and improving healthcare access. Built with React, Node.js, and MongoDB, the project proves that digital technology can make quality healthcare more reachable, efficient, and affordable for all.
